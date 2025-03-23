@@ -1,4 +1,4 @@
-**Secangkir Inventory Management System**
+S**Secangkir Inventory Management System**
 
 A web-based inventory management system designed for Mart Secangkir TDI to streamline stock tracking, optimize inventory control, and enhance operational efficiency.
 
@@ -13,7 +13,6 @@ A web-based inventory management system designed for Mart Secangkir TDI to strea
 ✅ Automated Alerts – Get notified when stock is low.
 
 ✅ Role-Based Access – Secure access for managers, staff, and IT personnel.
-
 
 
 **Tech Stack**
